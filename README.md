@@ -1,7 +1,5 @@
 # 🎬 Full-Stack Netflix Clone
 
-![Netflix Clone Preview](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f562aaf4-5dbb-4603-a32b-6ef6c2230136/dh0w8qv-9d8ee6b2-b41a-4681-ab9b-8a227560dc75.jpg/v1/fill/w_1280,h_720,q_75,strp/the_netflix_login_background__canada__2024___by_logofeveryt_dh0w8qv-fullview.jpg)
-
 A fully responsive, full-stack movie browsing application inspired by Netflix. This project features a secure user authentication system, dynamic movie data fetched via the TMDB API, and a custom-built backend integrated with a cloud MySQL database.
 
 **🔴 Live Demo:** [View the Live Application Here](https://netflix-clone1-rose.vercel.app/)
